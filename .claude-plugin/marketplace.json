@@ -1,0 +1,18 @@
+{
+  "name": "sic-plugins",
+  "description": "Plugins for Salesforce Innovation Center (SIC) meeting preparation",
+  "owner": {
+    "name": "Nate Arnold"
+  },
+  "plugins": [
+    {
+      "name": "meeting-intelligence-brief",
+      "description": "Pre-kickoff research brief for Salesforce Innovation Center (SIC) meetings: parallel research across org62, Slack, and public sources, a suggested funnel-ordered agenda, fact-check, and a strategist-approved Slack canvas.",
+      "version": "0.2.0",
+      "source": "./meeting-intelligence-brief",
+      "author": {
+        "name": "Nate Arnold"
+      }
+    }
+  ]
+}
